@@ -4,7 +4,8 @@
   "description": "The Odin Project - Testing practice project",
   "main": "./src/index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "watch": "jest --watch --verbose false"
   },
   "author": "",
   "license": "ISC",
